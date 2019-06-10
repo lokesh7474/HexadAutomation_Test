@@ -1,0 +1,11 @@
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\bin\Debug\HexadAutomation.exe.config
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\bin\Debug\HexadAutomation.exe
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\bin\Debug\HexadAutomation.pdb
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\bin\Debug\nunit.framework.dll
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\bin\Debug\nunit.framework.pdb
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\bin\Debug\nunit.framework.xml
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\obj\Debug\HexadAutomation.csprojAssemblyReference.cache
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\obj\Debug\HexadAutomation.csproj.CoreCompileInputs.cache
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\obj\Debug\HexadAutomation.csproj.CopyComplete
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\obj\Debug\HexadAutomation.exe
+c:\users\acer\source\repos\HexadAutomation\HexadAutomation\obj\Debug\HexadAutomation.pdb
