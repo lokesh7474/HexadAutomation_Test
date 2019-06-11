@@ -38,6 +38,16 @@ namespace HexadAutomation
         [TearDown]
          public void tearDown()
         {
+            // check if fails then take snapshop
+            if(TestContext.CurrentContext.Result.Outcome.Status == TestStatus.Failed)
+                {
+                //Take the screenshot
+            Screenshot image = ((ITakesScreenshot)driver).GetScreenshot();
+            //Save the screenshot
+            image.SaveAsFile(System.IO.Directory.GetCurrentDirectory.ToString(), ImageFormat.Png);
+                 }
+
+
             driver.Quit();
 
         }
